@@ -133,6 +133,16 @@ initial_activities = {
         "max_participants": 15,
         "participants": []
     },
+    "Manga Maniacs": {
+        "description": "Power up your imagination! Dive into bold heroes, unforgettable adventures, and expressive art as we explore the worlds and storytelling of Japanese manga.",
+        "schedule": "Tuesdays at 7:00 PM",
+        "schedule_details": {
+            "days": ["Tuesday"],
+            "start_time": "19:00"
+        },
+        "max_participants": 15,
+        "participants": []
+    },
     "Debate Team": {
         "description": "Develop public speaking and argumentation skills",
         "schedule": "Fridays, 3:30 PM - 5:30 PM",
